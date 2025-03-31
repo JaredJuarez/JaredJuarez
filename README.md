@@ -13,12 +13,14 @@
 📱 Experiencia en desarrollo web y móvil con tecnologías como **React, React Native, Tailwind y Astro**.  
 🎨 Diseño UI/UX en **Figma**.  
 🧠 Habilidades en **lógica matemática** y desarrollo backend con **Java**.  
+🗄️ Conocimiento en **bases de datos SQL y NoSQL** (MySQL, MongoDB, Oracle).  
+☁️ Implementación de proyectos en **la nube** (Vercel, Firebase, AWS).
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,java,spring,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,java,spring,mysql,mongodb,oracle,aws,firebase,figma" />
 </p>
 
 ---
