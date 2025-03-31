@@ -20,7 +20,10 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,java,spring,mysql,mongodb,oracle,aws,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,astro,tailwind,java,spring,aws,firebase,figma" /><br>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 ---
