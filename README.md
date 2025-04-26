@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Software Developer | Frontend Specialist <br>
   📍 Cuernavaca, Morelos, México <br>
-  🎓 Estudiante de Desarrollo de Software | 8º Cuatrimestre  
+  🎓 Estudiante de Desarrollo de Software | 9º Cuatrimestre  
 </p>
 
 ---
